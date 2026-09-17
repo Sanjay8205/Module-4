@@ -27,5 +27,6 @@ print("Sum :",returnSum(myDict))
 ## Output
 ![Screenshot (148)](https://github.com/user-attachments/assets/584ecff1-9dfb-4670-b1c8-ee354a85ed3d)
 
+
 ## Result
 Thus,the program has been executed successfully.
